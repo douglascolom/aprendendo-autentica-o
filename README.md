@@ -1,2 +1,2 @@
-# aprendendo-autentica-o
+# aprendendo-autenticacoes
 Repositorio teste de autenticações.
